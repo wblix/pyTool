@@ -15,7 +15,7 @@ import requests
 import random
 import string
 
-webhook_url = 'https://discord.com/api/webhooks/1307673634311114752/rF_vXJJpIPtPo5KpW4gVxoPPZ2QlOFvxJuMW1t4nTSA-yNogo6UlcQq55xm34VsbAVv8'
+webhook_url = 'YOUR_WEBHOOK'
 last_sent_time = 0
 
 COOLDOWN_TIME = 15
