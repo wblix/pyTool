@@ -25,5 +25,5 @@ To get started with the Keylogger, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repository/keylogger-screenlogger.git
-   cd keylogger-screenlogger
+   git clone https://github.com/wblix/pyTool.git
+   cd pyTool
